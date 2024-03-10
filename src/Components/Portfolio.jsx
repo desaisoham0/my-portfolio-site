@@ -34,7 +34,7 @@ const projectList = [
     title: "Personal portfolio Website",
     description:
       "I created a personal portfolio website to showcase my web devlopment and experience.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    url: "https://desaisoham0.github.io/sohamdesai",
   },
 ];
 
