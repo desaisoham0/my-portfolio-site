@@ -36,7 +36,8 @@ const projectList = [
       "I created a personal portfolio website to showcase my web devlopment and experience.",
     url: "https://desaisoham0.github.io/sohamdesai",
   },
-  {title: "Enhanced Pomodoro Timer",
+  {
+    title: "Enhanced Pomodoro Timer",
     description:
       "Developed and implemented a web-based Enhanced Pomodoro Timer that allows users to customize work and break durations, featuring dynamic UI updates such as background color shifts and live webpage title changes, along with functionality to track and display cumulative work and break times for improved productivity.",
     url: "https://desaisoham0.github.io/FocusFlow",
