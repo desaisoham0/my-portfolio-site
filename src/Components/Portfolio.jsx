@@ -34,7 +34,7 @@ const projectList = [
     title: "Personal portfolio Website",
     description:
       "I created a personal portfolio website to showcase my web devlopment and experience.",
-    url: "https://desaisoham0.github.io/sohamdesai",
+    url: "https://desaisoham0.github.io/my-portfolio-site",
   },
   {
     title: "Enhanced Pomodoro Timer",
