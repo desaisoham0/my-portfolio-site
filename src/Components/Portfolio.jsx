@@ -31,12 +31,6 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "Personal portfolio Website",
-    description:
-      "I created a personal portfolio website to showcase my web devlopment and experience.",
-    url: "https://desaisoham0.github.io/my-portfolio-site",
-  },
-  {
     title: "Enhanced Pomodoro Timer",
     description:
       "Developed and implemented a web-based Enhanced Pomodoro Timer that allows users to customize work and break durations, featuring dynamic UI updates such as background color shifts and live webpage title changes, along with functionality to track and display cumulative work and break times for improved productivity.",
